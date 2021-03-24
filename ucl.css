@@ -1,0 +1,111 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+.max-cr
+{
+	width: 100%;
+	padding-top: 0px;
+	height: 2200px;
+	background-image: url("a41a39c5137dbaa2ff4b85ced763e6cf.jpg");
+	background-attachment: fixed;
+}
+.cr
+{
+	width: 100%;
+	display: block;
+	text-align: center;
+	border-bottom: 1px solid #fff;
+}
+h2
+{
+	color: #fff;
+	font-size: 20px;
+}
+.cr1
+{
+	width: 100%;
+	display: block;
+	text-align: center;
+	margin-top: 15px;
+}
+.huitieme
+{
+	color: #fff;
+	font-size: 10px;
+	text-decoration: underline;
+	width: 100%;
+	padding-bottom: 7px;
+}
+.date
+{
+	color: #fff;
+	margin-top: 10px;
+}
+.score1
+{
+	display: flex;
+	justify-content: space-between;
+	width: 90%;
+	text-align: center;
+	margin-left: 70px;
+	margin-top: 50px;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	border-top: 1px solid #fff;
+}
+.div1
+{
+	display: flex;
+	justify-content: space-between;
+	color: #fff;
+}
+.div2
+{
+	color: #fff;
+}
+.div3
+{
+	display: flex;
+	justify-content: space-between;
+	color: #fff;
+}
+.div
+{
+	margin-left: 50px;
+	color: #fff;
+}
+.date1
+{
+	text-align: center;
+	width: 100%;
+	margin-top: 20PX;
+	color: #fff;
+}
+.div4
+{
+	margin-left: 12px;
+	color: #fff;
+}
+.div5
+{
+	margin-left: 35px;
+	color: #fff;
+}
+.div6
+{
+	margin-left: 80px;
+	color: #fff;
+}
+/*****************************************************************************************************************************************************/
+.max-cr1
+{
+	width: 100%;
+	padding-top: 0px;
+	height: 2200px;
+	background-image: url("YT.jpg");
+	background-attachment: fixed;
+}
